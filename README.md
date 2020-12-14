@@ -23,10 +23,8 @@ Diana DeGette had the most votes and won with 272,892 votes and 73.8%
 
 The full breakdown is below:
 
-![ElectionBreakdown](https://github.com/ajg318/Election_Analysis/tree/main/resources/terminaloutput.png)
+![ElectionBreakdown](https://github.com/ajg318/Election_Analysis/blob/main/resources/terminaloutput.png)
 
-    
-    ### Analysis of Outcomes Based on Launch Date
 
 ### Election Audit Summary
 
@@ -63,8 +61,5 @@ The code can find all the candidates, as long they are in the third column. The 
 
 Another modification is being able to read the csv anywhere and not just locally. This will allow for easier access to the votes.
 
-### Challenges and Difficulties Encountered
-
-## Results
 
 
